@@ -1,0 +1,69 @@
+/******* Yazı Font Düzenlemeleri *********/
+
+.text-small
+{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.5em;
+    color: #ab974d;
+}
+
+.text-medium 
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2em;
+    color: #ab974d;
+}
+
+.text-large
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 5em;
+    color: #a761c1;
+}
+
+
+
+/******** Tag Düzenlemeleri *******/
+
+ul , ol {
+    list-style-position: inside;
+}
+
+body 
+{
+    background-color: #CBE4DE;
+}
+
+p 
+{
+    color: #04ab7b;
+}
+
+img 
+{
+    border: 0.5rem dashed #3AA6B9;
+}
+
+ul, ol, p, address{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1em;
+}
+
+nav 
+{
+    text-align: right;
+}
+
+hr
+{
+   border-top: 1px dashed #a2c2a2;
+   border-top-width: 2px;
+}
+
+section
+{
+    text-align: center;
+}
